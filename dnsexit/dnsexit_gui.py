@@ -283,7 +283,3 @@ app = Application()
 app.master.title('DNSExit Updater Tool')
 
 app.mainloop()
-
-#
-#
-#cnx.close()
